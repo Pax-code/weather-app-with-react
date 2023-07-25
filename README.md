@@ -1,3 +1,9 @@
+# ScreenShots
+
+![Screenshot_29](https://github.com/Pax-code/weather-app-with-react/assets/58390807/571e23a9-3a3c-44c3-849a-a4801e20f860)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
